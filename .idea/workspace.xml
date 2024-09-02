@@ -85,4 +85,7 @@
     <MESSAGE value="First upload" />
     <option name="LAST_COMMIT_MESSAGE" value="First upload" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MachineLearningPr$ProjectCode.coverage" NAME="ProjectCode Coverage Results" MODIFIED="1725299932945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
 </project>
